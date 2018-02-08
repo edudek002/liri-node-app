@@ -1,0 +1,32 @@
+{
+  "name": "liri-node-app",
+  "version": "1.0.0",
+  "main": "keys.js",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "request": "^2.83.0",
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edudek002/liri-node-app.git"
+  },
+  "keywords": [],
+  "author": "ED",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edudek002/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/edudek002/liri-node-app#readme",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "request": "^2.83.0",
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  }
+}
